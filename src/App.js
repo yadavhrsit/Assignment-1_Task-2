@@ -3,7 +3,7 @@ import Resume from './Resume';
 
 function App() {
   return (
-    <div className="App bg-gray-400">
+    <div className="App bg-gray-400 py-5">
       <Resume />
     </div>
   );

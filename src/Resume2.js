@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Resume() {
+function Resume2() {
     return (
         <div className="bg-white min-h-full max-w-6xl font-semibold flex items-center flex-col py-5 ml-auto mr-auto" >
             <p className='text text-5xl capitalize'>Name Surname</p>
@@ -198,4 +198,4 @@ function Resume() {
     )
 }
 
-export default Resume
+export default Resume2
