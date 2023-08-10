@@ -7,7 +7,7 @@ function Resume2() {
             <p className='text text-3xl py-2 bg-gradient-to-r from-red-500 via-orange-500 to-yellow-500 min-w-full mt-3 font-medium capitalize text-white'>Professional Title</p>
             <div className='min-h-full min-w-full flex justify-between py-3 px-6 mt-3'>
                 {/* left side container     */}
-                <div className='max-w-[30%] min-h-full text-left text-xl flex flex-col gap-4'>
+                <div className='w-[30%] min-h-full text-left text-xl flex flex-col gap-4'>
 
                     {/* Contacts Container */}
                     <div className="min-w-full font-normal">
@@ -77,7 +77,7 @@ function Resume2() {
 
 
                 {/* right side container */}
-                <div className='max-w-[62%] min-h-full text-left text-xl flex flex-col gap-4'>
+                <div className='w-[62%] min-h-full text-left text-xl flex flex-col gap-4'>
                     {/* Professional experience Container */}
                     <div className="min-w-full">
                         <p className="text text-3xl font-bold uppercase">professional experience</p>
